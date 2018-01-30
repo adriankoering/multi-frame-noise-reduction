@@ -1,4 +1,4 @@
 numpy>=1.13.3
-skimage=0.13.0
+skimage>=0.13.0
 matploblib>=2.1.0
 hypothesis>=3.38.5
